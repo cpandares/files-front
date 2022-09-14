@@ -1,0 +1,82 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas en el <TablePage /> Debe mostar el componente con los valores por defecto 1`] = `
+<div>
+  <table
+    class="table table-striped table-bordered container mt-4 "
+  >
+    <thead>
+      <tr>
+        <th>
+          FileName
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a
+            href="/test1.csv"
+          >
+            test1.csv
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="/test2.csv"
+          >
+            test2.csv
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="/test3.csv"
+          >
+            test3.csv
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="/test4.csv"
+          >
+            test4.csv
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="/test5.csv"
+          >
+            test5.csv
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="/test6.csv"
+          >
+            test6.csv
+          </a>
+        </td>
+      </tr>
+      <tr>
+        <td>
+          <a
+            href="/test9.csv"
+          >
+            test9.csv
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+`;
